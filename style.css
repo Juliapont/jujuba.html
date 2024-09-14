@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightblue;
+    font-family: 'karla',sans-serif;
+}
+.formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    background-color: gainsboro;
+    width: 25vw;
+    height: 23vh;
+    border-radius: 1em;
+
+}
